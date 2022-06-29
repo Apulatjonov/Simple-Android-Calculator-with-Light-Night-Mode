@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <attr name="main" format="color">#2d62ff</attr>
+    <attr name="text" format="color">#616161</attr>
+    <attr name="shadow" format="color">#2d62ff</attr>
+    <attr name="btn" format="color">#2d62ff</attr>
+    <attr name="btn2" format="color">#616161</attr>
+    <attr name="bg" format="color">#ffffff</attr>
+</resources>
